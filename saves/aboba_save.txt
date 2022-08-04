@@ -1,0 +1,13 @@
+players
+{
+-Krakazibli-1:
+-BOB-2:
+-Aboba-3:
+}
+id
+{
+-objects-[]:
+}
+achivments
+{	
+}

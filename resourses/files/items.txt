@@ -1,0 +1,12 @@
+vanila:iron-iron
+vanila:aluminium-aluminium
+vanila:carbon-carbon
+vanila:silicon-silicon
+vanila:titan-titan
+vanila:magnesium-magnesium
+vanila:nickel-nickel
+vanila:platinum-platinum
+vanila:copper-copper
+vanila:gold-gold
+vanila:silver-silver
+vanila:cobalt-cobalt

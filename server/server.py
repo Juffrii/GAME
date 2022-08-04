@@ -1,0 +1,1 @@
+server_type = local # server has two types public and local

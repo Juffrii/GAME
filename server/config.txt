@@ -1,0 +1,8 @@
+type=local
+difficulty=custom
+pvp=false
+game_type=normal
+discription=server
+name=server
+max_players=10
+save_name="None"
